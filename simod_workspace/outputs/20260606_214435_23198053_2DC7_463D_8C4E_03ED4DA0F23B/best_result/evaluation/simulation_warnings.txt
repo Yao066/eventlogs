@@ -1,0 +1,6 @@
+Gateway node_b86c7ebf-333d-4d47-a262-de49e52d1093 is using conditions, but some are missing. Flows without conditions: node_704b4e82-1b4d-4e15-95af-2c8751f9bc09, node_68c7bc16-cf32-4c50-99a5-ecaf4fd03d60
+Gateway node_5df931de-22da-4a3e-910b-e15c05bd8b57 is using conditions, but some are missing. Flows without conditions: node_ee2f0afd-fef8-4113-aaf5-548c47d352e2, node_a693510f-42c8-4fac-b7f5-93f98dc5da7f
+Gateway node_b86c7ebf-333d-4d47-a262-de49e52d1093 is using conditions, but some are missing. Flows without conditions: node_704b4e82-1b4d-4e15-95af-2c8751f9bc09, node_68c7bc16-cf32-4c50-99a5-ecaf4fd03d60
+Gateway node_5df931de-22da-4a3e-910b-e15c05bd8b57 is using conditions, but some are missing. Flows without conditions: node_ee2f0afd-fef8-4113-aaf5-548c47d352e2, node_a693510f-42c8-4fac-b7f5-93f98dc5da7f
+Gateway node_b86c7ebf-333d-4d47-a262-de49e52d1093 is using conditions, but some are missing. Flows without conditions: node_704b4e82-1b4d-4e15-95af-2c8751f9bc09, node_68c7bc16-cf32-4c50-99a5-ecaf4fd03d60
+Gateway node_5df931de-22da-4a3e-910b-e15c05bd8b57 is using conditions, but some are missing. Flows without conditions: node_ee2f0afd-fef8-4113-aaf5-548c47d352e2, node_a693510f-42c8-4fac-b7f5-93f98dc5da7f
