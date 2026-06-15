@@ -6,7 +6,7 @@ input event log path: `/simod_workspace/resources/event_logs/*`
 
 output event log path: `/simod_workspace/outputs/*`
 * BPI Challenge 2019: `/simod_workspace/outputs/20260615_080302_27CA8B16_D20B_4925_8429_26255D39014E`
-* Production: `/simod_workspace/20260608_181447_24D690D3_ECDF_42D3_B1BA_9CA0EB114459`
+* Production: `/simod_workspace/outputs/20260614_085801_32C2CFAC_7561_403B_866F_180DC2AB529C`
 
 ## AgentSimulator
 
