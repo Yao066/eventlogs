@@ -161,7 +161,5 @@ cython_debug/
 
 .DS_Store
 
-/simulated_data/
-/raw_data/
 /input_data/
 /sim_train_log/

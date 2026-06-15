@@ -1,0 +1,8 @@
+metric,mean_distance
+three_gram_distance,0.9365723121828695
+two_gram_distance,0.9070239399897705
+absolute_event_distribution,6693.081119539298
+relative_event_distribution,6589.856723434324
+circadian_event_distribution,2.454124842170038
+arrival_event_distribution,59.31549295774647
+cycle_time_distribution,11791.466197183097

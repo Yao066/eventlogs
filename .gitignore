@@ -1,1 +1,4 @@
 .DS_Store
+
+/evaluation/compute_log_distances.py
+/evaluation/test_timestamp.py
