@@ -12,7 +12,7 @@ Usage:
 
 
 python evaluation_simod_metrics.py \
-  --dir ../simod_workspace/outputs/20260608_181447_24D690D3_ECDF_42D3_B1BA_9CA0EB114459/best_result/evaluation \
+  --dir ../simod_workspace/outputs/20260615_080302_27CA8B16_D20B_4925_8429_26255D39014E/best_result/evaluation \
   --input-filename evaluation_metrics.csv \
   --output-filename mean_metrics.csv
 

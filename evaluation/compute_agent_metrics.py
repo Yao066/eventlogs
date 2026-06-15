@@ -83,6 +83,20 @@ python compute_agent_metrics.py \
     --sim-start-col start_timestamp \
     --sim-end-col end_timestamp \
     --sim-resource-col resource
+
+python compute_agent_metrics.py \
+    --ref ../simod_workspace/outputs/20260608_181447_24D690D3_ECDF_42D3_B1BA_9CA0EB114459/best_result/evaluation/test_log.csv \
+    --sim ../simod_workspace/outputs/20260608_181447_24D690D3_ECDF_42D3_B1BA_9CA0EB114459/best_result/evaluation \
+    --case-col "case:concept:name" \
+    --activity-col "concept:name" \
+    --start-col start_timestamp \
+    --end-col end_timestamp \
+    --resource-col "org:resource" \
+    --sim-case-col case_id \
+    --sim-activity-col activity \
+    --sim-start-col start_time \
+    --sim-end-col end_time \
+    --sim-resource-col resource
 """
 
 from __future__ import annotations
