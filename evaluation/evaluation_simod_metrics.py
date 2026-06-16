@@ -10,14 +10,15 @@ Input CSV format:
 Usage:
     python average_evaluation_metrics.py --dir agent_output
 
-
+BPI 2019:
 python evaluation_simod_metrics.py \
   --dir ../simod_workspace/outputs/20260615_080302_27CA8B16_D20B_4925_8429_26255D39014E/best_result/evaluation \
   --input-filename evaluation_metrics.csv \
   --output-filename mean_metrics.csv
 
+Production:
 python evaluation_simod_metrics.py \
-  --dir ../simod_workspace/outputs/20260614_085801_32C2CFAC_7561_403B_866F_180DC2AB529C/best_result/evaluation \
+  --dir ../simod_workspace/outputs/20260616_102514_25C250EE_8D76_4D5F_8932_737C2BBF67D9/best_result/evaluation \
   --input-filename evaluation_metrics.csv \
   --output-filename mean_metrics.csv
 """

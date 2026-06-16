@@ -1,0 +1,304 @@
+case_id,activity_name,start_timestamp,end_timestamp,resource,agent
+53,Turning & Milling - Machine 8,2012-03-14 13:50:00+00:00,2012-03-14 15:56:00+00:00,Machine 8 - Turning & Milling,0
+53,Turning & Milling - Machine 8,2012-03-14 16:24:00+00:00,2012-03-14 17:32:00+00:00,Machine 8 - Turning & Milling,0
+53,Turning & Milling - Machine 8,2012-03-14 17:33:00+00:00,2012-03-14 18:52:00+00:00,Machine 8 - Turning & Milling,0
+53,Turning & Milling - Machine 8,2012-03-14 18:53:00+00:00,2012-03-14 20:53:00+00:00,Machine 8 - Turning & Milling,0
+53,Turning & Milling - Machine 8,2012-03-14 20:54:00+00:00,2012-03-14 22:39:00+00:00,Machine 8 - Turning & Milling,0
+53,Turning & Milling - Machine 8,2012-03-14 22:39:00+00:00,2012-03-15 02:26:00+00:00,Machine 8 - Turning & Milling,0
+113,SETUP     Turning & Milling - Machine 5,2012-03-15 03:09:00+00:00,2012-03-15 06:49:00+00:00,Machine 5 - Turning & Milling,1
+139,Round Grinding - Q.C.,2012-03-15 06:43:00+00:00,2012-03-15 07:45:00+00:00,Quality Check 1,2
+53,Turning & Milling Q.C.,2012-03-15 07:00:00+00:00,2012-03-15 08:00:00+00:00,Quality Check 1,2
+53,Turning & Milling - Machine 8,2012-03-15 07:00:00+00:00,2012-03-15 08:00:00+00:00,Machine 8 - Turning & Milling,0
+113,Turning & Milling - Machine 5,2012-03-15 07:06:00+00:00,2012-03-15 15:56:00+00:00,Machine 5 - Turning & Milling,1
+53,Turning & Milling - Machine 8,2012-03-15 08:00:00+00:00,2012-03-15 11:30:00+00:00,Machine 8 - Turning & Milling,0
+71,Turning & Milling - Machine 10,2012-03-15 10:03:00+00:00,2012-03-15 12:26:00+00:00,Machine 10 - Grinding,3
+106,Turning & Milling - Machine 8,2012-03-15 10:14:00+00:00,2012-03-15 15:44:00+00:00,Machine 8 - Turning & Milling,0
+71,Turning & Milling - Machine 10,2012-03-15 12:26:00+00:00,2012-03-15 15:43:00+00:00,Machine 10 - Grinding,3
+53,Turning & Milling Q.C.,2012-03-15 13:20:00+00:00,2012-03-15 13:31:00+00:00,Quality Check 1,2
+64,Turning & Milling - Machine 5,2012-03-15 16:29:00+00:00,2012-03-15 23:59:00+00:00,Machine 5 - Turning & Milling,1
+106,Turning & Milling - Machine 8,2012-03-15 16:55:00+00:00,2012-03-15 20:38:00+00:00,Machine 8 - Turning & Milling,0
+60,Turning - Machine 8,2012-03-15 22:23:00+00:00,2012-03-16 00:10:00+00:00,Machine 8 - Turning & Milling,0
+64,Turning & Milling - Machine 5,2012-03-16 00:20:00+00:00,2012-03-16 07:00:00+00:00,Machine 5 - Turning & Milling,1
+60,Lapping - Machine 1,2012-03-16 07:00:00+00:00,2012-03-16 07:20:00+00:00,Machine 1 - Lapping,4
+113,Turning & Milling Q.C.,2012-03-16 07:03:00+00:00,2012-03-16 11:04:00+00:00,Quality Check 1,2
+64,Turning & Milling - Machine 5,2012-03-16 07:10:00+00:00,2012-03-16 12:49:00+00:00,Machine 5 - Turning & Milling,1
+53,Turning & Milling Q.C.,2012-03-16 08:00:00+00:00,2012-03-16 09:08:00+00:00,Quality Check 1,2
+60,Turning - Machine 8,2012-03-16 09:53:00+00:00,2012-03-16 12:30:00+00:00,Machine 8 - Turning & Milling,0
+113,Laser Marking - Machine 7,2012-03-16 11:15:00+00:00,2012-03-16 11:39:00+00:00,Machine 7- Laser Marking,5
+64,Turning & Milling - Machine 5,2012-03-17 08:23:00+00:00,2012-03-17 15:00:00+00:00,Machine 5 - Turning & Milling,1
+60,Turning Q.C.,2012-03-18 07:00:00+00:00,2012-03-18 08:00:00+00:00,Quality Check 1,2
+60,Turning - Machine 8,2012-03-18 07:01:00+00:00,2012-03-18 08:39:00+00:00,Machine 8 - Turning & Milling,0
+54,Turning & Milling - Machine 4,2012-03-18 09:24:00+00:00,2012-03-18 16:10:00+00:00,Machine 4 - Turning & Milling,6
+59,Turning & Milling - Machine 6,2012-03-18 09:47:00+00:00,2012-03-18 15:54:00+00:00,Machine 6 - Turning & Milling,7
+96,Turning & Milling Q.C.,2012-03-18 12:00:00+00:00,2012-03-18 13:53:00+00:00,Quality Check 1,2
+64,Turning & Milling - Machine 5,2012-03-18 13:22:00+00:00,2012-03-18 16:04:00+00:00,Machine 5 - Turning & Milling,1
+59,Turning & Milling - Machine 6,2012-03-18 16:11:00+00:00,2012-03-18 17:59:00+00:00,Machine 6 - Turning & Milling,7
+64,Turning & Milling - Machine 5,2012-03-18 16:40:00+00:00,2012-03-18 17:59:00+00:00,Machine 5 - Turning & Milling,1
+60,Turning - Machine 8,2012-03-18 16:51:00+00:00,2012-03-18 23:30:00+00:00,Machine 8 - Turning & Milling,0
+64,Turning & Milling - Machine 5,2012-03-18 20:07:00+00:00,2012-03-18 20:08:00+00:00,Machine 5 - Turning & Milling,1
+54,Turning & Milling - Machine 4,2012-03-18 20:08:00+00:00,2012-03-18 23:46:00+00:00,Machine 4 - Turning & Milling,6
+64,Turning & Milling - Machine 5,2012-03-18 20:08:00+00:00,2012-03-19 06:10:00+00:00,Machine 5 - Turning & Milling,1
+59,Turning & Milling - Machine 6,2012-03-18 20:21:00+00:00,2012-03-18 21:18:00+00:00,Machine 6 - Turning & Milling,7
+174,Turning & Milling - Machine 6,2012-03-18 21:42:00+00:00,2012-03-19 02:14:00+00:00,Machine 6 - Turning & Milling,7
+106,Turning & Milling Q.C.,2012-03-19 07:00:00+00:00,2012-03-19 07:28:00+00:00,Quality Check 1,2
+140,Turning & Milling - Machine 5,2012-03-19 07:14:00+00:00,2012-03-19 17:59:00+00:00,Machine 5 - Turning & Milling,1
+174,Turning & Milling - Machine 6,2012-03-19 07:20:00+00:00,2012-03-19 12:12:00+00:00,Machine 6 - Turning & Milling,7
+54,Turning & Milling - Machine 4,2012-03-19 07:32:00+00:00,2012-03-19 08:17:00+00:00,Machine 4 - Turning & Milling,6
+54,Turning & Milling - Machine 4,2012-03-19 09:37:00+00:00,2012-03-19 16:04:00+00:00,Machine 4 - Turning & Milling,6
+106,Laser Marking - Machine 7,2012-03-19 09:38:00+00:00,2012-03-19 10:51:00+00:00,Machine 7- Laser Marking,5
+53,Laser Marking - Machine 7,2012-03-19 09:39:00+00:00,2012-03-19 11:21:00+00:00,Machine 7- Laser Marking,5
+174,Turning & Milling Q.C.,2012-03-19 11:30:00+00:00,2012-03-19 12:37:00+00:00,Quality Check 1,2
+174,Turning & Milling - Machine 6,2012-03-19 12:12:00+00:00,2012-03-19 16:01:00+00:00,Machine 6 - Turning & Milling,7
+54,Turning & Milling Q.C.,2012-03-19 12:39:00+00:00,2012-03-19 13:38:00+00:00,Quality Check 1,2
+106,Flat Grinding - Machine 11,2012-03-19 14:42:00+00:00,2012-03-19 15:20:00+00:00,Machine 11 - Grinding,8
+54,Turning & Milling - Machine 4,2012-03-19 16:05:00+00:00,2012-03-19 22:59:00+00:00,Machine 4 - Turning & Milling,6
+174,Turning & Milling - Machine 6,2012-03-19 16:40:00+00:00,2012-03-19 17:49:00+00:00,Machine 6 - Turning & Milling,7
+60,Turning Q.C.,2012-03-19 17:00:00+00:00,2012-03-19 17:58:00+00:00,Quality Check 1,2
+174,Turning & Milling - Machine 6,2012-03-19 19:57:00+00:00,2012-03-19 23:28:00+00:00,Machine 6 - Turning & Milling,7
+140,Turning & Milling - Machine 5,2012-03-19 20:20:00+00:00,2012-03-19 21:35:00+00:00,Machine 5 - Turning & Milling,1
+104,Turning & Milling - Machine 5,2012-03-19 20:43:00+00:00,2012-03-20 02:26:00+00:00,Machine 5 - Turning & Milling,1
+104,Turning & Milling - Machine 5,2012-03-20 02:27:00+00:00,2012-03-20 06:41:00+00:00,Machine 5 - Turning & Milling,1
+174,Turning & Milling - Machine 6,2012-03-20 03:03:00+00:00,2012-03-20 06:40:00+00:00,Machine 6 - Turning & Milling,7
+124,Turning & Milling - Machine 4,2012-03-20 06:59:00+00:00,2012-03-20 14:34:00+00:00,Machine 4 - Turning & Milling,6
+54,Turning & Milling Q.C.,2012-03-20 07:00:00+00:00,2012-03-20 07:15:00+00:00,Quality Check 1,2
+104,Turning & Milling - Machine 5,2012-03-20 07:00:00+00:00,2012-03-20 11:07:00+00:00,Machine 5 - Turning & Milling,1
+119,Turning & Milling - Machine 10,2012-03-20 07:12:00+00:00,2012-03-20 15:57:00+00:00,Machine 10 - Grinding,3
+60,Turning Q.C.,2012-03-20 07:14:00+00:00,2012-03-20 08:00:00+00:00,Quality Check 1,2
+174,Turning & Milling - Machine 6,2012-03-20 07:25:00+00:00,2012-03-20 13:29:00+00:00,Machine 6 - Turning & Milling,7
+104,Turning & Milling Q.C.,2012-03-20 09:54:00+00:00,2012-03-20 11:54:00+00:00,Quality Check 1,2
+140,Turning & Milling Q.C.,2012-03-20 11:02:00+00:00,2012-03-20 12:02:00+00:00,Quality Check 1,2
+60,Lapping - Machine 1,2012-03-20 11:59:00+00:00,2012-03-20 12:35:00+00:00,Machine 1 - Lapping,4
+60,Laser Marking - Machine 7,2012-03-20 12:36:00+00:00,2012-03-20 12:47:00+00:00,Machine 7- Laser Marking,5
+60,Final Inspection Q.C.,2012-03-20 13:30:00+00:00,2012-03-20 14:30:00+00:00,Quality Check 1,2
+140,Laser Marking - Machine 7,2012-03-20 13:37:00+00:00,2012-03-20 14:52:00+00:00,Machine 7- Laser Marking,5
+54,Flat Grinding - Machine 11,2012-03-20 13:50:00+00:00,2012-03-20 14:50:00+00:00,Machine 11 - Grinding,8
+45,Turning & Milling - Machine 6,2012-03-20 14:22:00+00:00,2012-03-20 20:05:00+00:00,Machine 6 - Turning & Milling,7
+124,Turning & Milling - Machine 4,2012-03-20 14:35:00+00:00,2012-03-20 15:58:00+00:00,Machine 4 - Turning & Milling,6
+174,Turning & Milling Q.C.,2012-03-20 14:37:00+00:00,2012-03-20 16:00:00+00:00,Quality Check 1,2
+54,Flat Grinding - Machine 11,2012-03-20 14:51:00+00:00,2012-03-20 16:06:00+00:00,Machine 11 - Grinding,8
+124,Turning & Milling - Machine 4,2012-03-20 15:59:00+00:00,2012-03-20 17:54:00+00:00,Machine 4 - Turning & Milling,6
+54,Turning & Milling Q.C.,2012-03-20 16:30:00+00:00,2012-03-20 17:19:00+00:00,Quality Check 1,2
+60,Final Inspection Q.C.,2012-03-20 17:04:00+00:00,2012-03-20 17:05:00+00:00,Quality Check 1,2
+53,Flat Grinding - Machine 11,2012-03-20 17:20:00+00:00,2012-03-20 17:21:00+00:00,Machine 11 - Grinding,8
+54,Final Inspection Q.C.,2012-03-20 17:20:00+00:00,2012-03-20 18:00:00+00:00,Quality Check 1,2
+54,Flat Grinding - Machine 11,2012-03-20 17:22:00+00:00,2012-03-20 17:23:00+00:00,Machine 11 - Grinding,8
+54,Lapping - Machine 1,2012-03-20 17:23:00+00:00,2012-03-20 18:38:00+00:00,Machine 1 - Lapping,4
+124,Turning & Milling - Machine 4,2012-03-20 17:54:00+00:00,2012-03-20 22:36:00+00:00,Machine 4 - Turning & Milling,6
+54,Laser Marking - Machine 7,2012-03-20 18:02:00+00:00,2012-03-20 18:03:00+00:00,Machine 7- Laser Marking,5
+45,Turning & Milling - Machine 6,2012-03-20 20:07:00+00:00,2012-03-20 23:19:00+00:00,Machine 6 - Turning & Milling,7
+105,Turning & Milling - Machine 4,2012-03-20 23:18:00+00:00,2012-03-21 06:34:00+00:00,Machine 4 - Turning & Milling,6
+45,Turning & Milling - Machine 6,2012-03-20 23:21:00+00:00,2012-03-21 03:23:00+00:00,Machine 6 - Turning & Milling,7
+60,Packing,2012-03-21 00:00:00+00:00,2012-03-21 01:00:00+00:00,Packing,9
+126,Turning & Milling - Machine 4,2012-03-21 00:00:00+00:00,2012-03-21 01:15:00+00:00,Machine 4 - Turning & Milling,6
+174,Turning & Milling Q.C.,2012-03-21 06:45:00+00:00,2012-03-21 07:16:00+00:00,Quality Check 1,2
+104,Turning & Milling Q.C.,2012-03-21 06:55:00+00:00,2012-03-21 07:41:00+00:00,Quality Check 1,2
+45,Turning & Milling Q.C.,2012-03-21 07:09:00+00:00,2012-03-21 10:03:00+00:00,Quality Check 1,2
+105,Turning & Milling - Machine 4,2012-03-21 07:18:00+00:00,2012-03-21 10:31:00+00:00,Machine 4 - Turning & Milling,6
+85,Turning & Milling - Machine 6,2012-03-21 07:21:00+00:00,2012-03-21 16:57:00+00:00,Machine 6 - Turning & Milling,7
+59,Turning & Milling Q.C.,2012-03-21 09:20:00+00:00,2012-03-21 10:10:00+00:00,Quality Check 1,2
+104,Laser Marking - Machine 7,2012-03-21 09:21:00+00:00,2012-03-21 09:49:00+00:00,Machine 7- Laser Marking,5
+124,Turning & Milling Q.C.,2012-03-21 12:28:00+00:00,2012-03-21 14:07:00+00:00,Quality Check 1,2
+119,Turning & Milling - Machine 10,2012-03-21 14:35:00+00:00,2012-03-21 15:30:00+00:00,Machine 10 - Grinding,3
+59,Laser Marking - Machine 7,2012-03-21 14:51:00+00:00,2012-03-21 14:56:00+00:00,Machine 7- Laser Marking,5
+106,Final Inspection Q.C.,2012-03-21 15:27:00+00:00,2012-03-21 17:57:00+00:00,Quality Check 1,2
+124,Laser Marking - Machine 7,2012-03-21 16:01:00+00:00,2012-03-21 16:20:00+00:00,Machine 7- Laser Marking,5
+53,Round Grinding - Machine 12,2012-03-21 16:35:00+00:00,2012-03-21 17:45:00+00:00,Machine 12 - Grinding,10
+59,Lapping - Machine 1,2012-03-21 16:57:00+00:00,2012-03-21 17:35:00+00:00,Machine 1 - Lapping,4
+85,Turning & Milling - Machine 6,2012-03-21 16:58:00+00:00,2012-03-21 18:00:00+00:00,Machine 6 - Turning & Milling,7
+53,Round Grinding - Machine 12,2012-03-21 18:30:00+00:00,2012-03-21 20:21:00+00:00,Machine 12 - Grinding,10
+85,Turning & Milling - Machine 6,2012-03-21 20:22:00+00:00,2012-03-22 00:31:00+00:00,Machine 6 - Turning & Milling,7
+126,Turning & Milling - Machine 4,2012-03-21 20:27:00+00:00,2012-03-22 06:51:00+00:00,Machine 4 - Turning & Milling,6
+135,Turning & Milling - Machine 5,2012-03-21 22:00:00+00:00,2012-03-22 06:30:00+00:00,Machine 5 - Turning & Milling,1
+54,Packing,2012-03-22 00:00:00+00:00,2012-03-22 01:00:00+00:00,Packing,9
+59,Packing,2012-03-22 00:00:00+00:00,2012-03-22 01:00:00+00:00,Packing,9
+71,Packing,2012-03-22 00:00:00+00:00,2012-03-22 01:00:00+00:00,Packing,9
+106,Packing,2012-03-22 00:00:00+00:00,2012-03-22 01:00:00+00:00,Packing,9
+85,Turning & Milling - Machine 6,2012-03-22 00:00:00+00:00,2012-03-22 01:15:00+00:00,Machine 6 - Turning & Milling,7
+85,Turning & Milling - Machine 6,2012-03-22 00:04:00+00:00,2012-03-22 03:08:00+00:00,Machine 6 - Turning & Milling,7
+85,Turning & Milling Q.C.,2012-03-22 06:56:00+00:00,2012-03-22 07:34:00+00:00,Quality Check 1,2
+126,Turning & Milling - Machine 4,2012-03-22 06:57:00+00:00,2012-03-22 07:57:00+00:00,Machine 4 - Turning & Milling,6
+65,Turning & Milling - Machine 9,2012-03-22 07:00:00+00:00,2012-03-22 08:00:00+00:00,Machine 9 - Turning & Milling,11
+126,Turning & Milling Q.C.,2012-03-22 07:00:00+00:00,2012-03-22 08:00:00+00:00,Quality Check 1,2
+135,Turning & Milling - Machine 5,2012-03-22 07:01:00+00:00,2012-03-22 12:17:00+00:00,Machine 5 - Turning & Milling,1
+119,Turning & Milling - Machine 10,2012-03-22 07:18:00+00:00,2012-03-22 17:48:00+00:00,Machine 10 - Grinding,3
+124,Lapping - Machine 1,2012-03-22 07:32:00+00:00,2012-03-22 07:46:00+00:00,Machine 1 - Lapping,4
+126,Turning & Milling - Machine 4,2012-03-22 07:58:00+00:00,2012-03-22 11:14:00+00:00,Machine 4 - Turning & Milling,6
+54,Final Inspection Q.C.,2012-03-22 09:07:00+00:00,2012-03-22 09:30:00+00:00,Quality Check 1,2
+135,Turning & Milling - Machine 5,2012-03-22 09:25:00+00:00,2012-03-22 09:59:00+00:00,Machine 5 - Turning & Milling,1
+59,Final Inspection Q.C.,2012-03-22 09:27:00+00:00,2012-03-22 11:08:00+00:00,Quality Check 1,2
+71,Turning Q.C.,2012-03-22 09:43:00+00:00,2012-03-22 09:47:00+00:00,Quality Check 1,2
+71,Laser Marking - Machine 7,2012-03-22 10:24:00+00:00,2012-03-22 11:00:00+00:00,Machine 7- Laser Marking,5
+53,Final Inspection Q.C.,2012-03-22 10:30:00+00:00,2012-03-22 13:30:00+00:00,Quality Check 1,2
+65,Turning & Milling Q.C.,2012-03-22 11:08:00+00:00,2012-03-22 11:59:00+00:00,Quality Check 1,2
+106,Final Inspection Q.C.,2012-03-22 11:50:00+00:00,2012-03-22 13:05:00+00:00,Quality Check 1,2
+99,Turning & Milling Q.C.,2012-03-22 11:59:00+00:00,2012-03-22 16:03:00+00:00,Quality Check 1,2
+142,Turning & Milling Q.C.,2012-03-22 14:00:00+00:00,2012-03-22 16:06:00+00:00,Quality Check 1,2
+71,Flat Grinding - Machine 11,2012-03-22 14:49:00+00:00,2012-03-22 14:50:00+00:00,Machine 11 - Grinding,8
+71,Final Inspection Q.C.,2012-03-22 14:51:00+00:00,2012-03-22 16:06:00+00:00,Quality Check 1,2
+126,Turning & Milling Q.C.,2012-03-22 17:15:00+00:00,2012-03-22 17:53:00+00:00,Quality Check 1,2
+135,Turning & Milling - Machine 5,2012-03-22 20:13:00+00:00,2012-03-23 01:23:00+00:00,Machine 5 - Turning & Milling,1
+119,Turning & Milling - Machine 10,2012-03-23 01:16:00+00:00,2012-03-23 06:51:00+00:00,Machine 10 - Grinding,3
+135,Turning & Milling - Machine 5,2012-03-23 02:56:00+00:00,2012-03-23 02:57:00+00:00,Machine 5 - Turning & Milling,1
+135,Turning & Milling - Machine 5,2012-03-23 02:57:00+00:00,2012-03-23 06:31:00+00:00,Machine 5 - Turning & Milling,1
+135,Turning & Milling - Machine 5,2012-03-23 07:00:00+00:00,2012-03-23 12:29:00+00:00,Machine 5 - Turning & Milling,1
+53,Final Inspection Q.C.,2012-03-23 10:30:00+00:00,2012-03-23 10:44:00+00:00,Quality Check 1,2
+124,Final Inspection Q.C.,2012-03-23 10:31:00+00:00,2012-03-23 12:16:00+00:00,Quality Check 1,2
+99,Turning & Milling Q.C.,2012-03-23 11:13:00+00:00,2012-03-23 11:25:00+00:00,Quality Check 1,2
+81,Turning & Milling Q.C.,2012-03-23 11:25:00+00:00,2012-03-23 12:44:00+00:00,Quality Check 1,2
+59,Turning & Milling Q.C.,2012-03-23 12:18:00+00:00,2012-03-23 13:33:00+00:00,Quality Check 1,2
+135,Turning & Milling - Machine 5,2012-03-24 13:32:00+00:00,2012-03-24 15:49:00+00:00,Machine 5 - Turning & Milling,1
+135,Turning & Milling - Machine 5,2012-03-24 16:00:00+00:00,2012-03-24 22:49:00+00:00,Machine 5 - Turning & Milling,1
+135,Turning & Milling - Machine 5,2012-03-24 22:50:00+00:00,2012-03-25 06:45:00+00:00,Machine 5 - Turning & Milling,1
+53,Packing,2012-03-25 00:00:00+00:00,2012-03-25 01:00:00+00:00,Packing,9
+118,Turning & Milling - Machine 6,2012-03-25 00:00:00+00:00,2012-03-25 01:15:00+00:00,Machine 6 - Turning & Milling,7
+86,Turning & Milling - Machine 6,2012-03-25 04:03:00+00:00,2012-03-25 06:44:00+00:00,Machine 6 - Turning & Milling,7
+135,Turning & Milling - Machine 5,2012-03-25 07:08:00+00:00,2012-03-25 10:39:00+00:00,Machine 5 - Turning & Milling,1
+119,Turning & Milling - Machine 10,2012-03-25 07:19:00+00:00,2012-03-25 17:45:00+00:00,Machine 10 - Grinding,3
+86,Turning & Milling - Machine 6,2012-03-25 09:49:00+00:00,2012-03-25 15:58:00+00:00,Machine 6 - Turning & Milling,7
+124,Final Inspection Q.C.,2012-03-25 10:00:00+00:00,2012-03-25 10:15:00+00:00,Quality Check 1,2
+81,Turning & Milling Q.C.,2012-03-25 11:48:00+00:00,2012-03-25 17:59:00+00:00,Quality Check 1,2
+135,Turning & Milling - Machine 5,2012-03-25 12:09:00+00:00,2012-03-25 12:27:00+00:00,Machine 5 - Turning & Milling,1
+99,Turning & Milling Q.C.,2012-03-25 12:12:00+00:00,2012-03-25 13:27:00+00:00,Quality Check 1,2
+126,Laser Marking - Machine 7,2012-03-25 15:40:00+00:00,2012-03-25 15:41:00+00:00,Machine 7- Laser Marking,5
+86,Turning & Milling - Machine 6,2012-03-25 16:20:00+00:00,2012-03-25 17:54:00+00:00,Machine 6 - Turning & Milling,7
+135,Turning & Milling - Machine 5,2012-03-25 19:39:00+00:00,2012-03-25 23:36:00+00:00,Machine 5 - Turning & Milling,1
+86,Turning & Milling - Machine 6,2012-03-25 20:09:00+00:00,2012-03-26 06:38:00+00:00,Machine 6 - Turning & Milling,7
+135,Turning & Milling - Machine 5,2012-03-25 23:42:00+00:00,2012-03-26 06:38:00+00:00,Machine 5 - Turning & Milling,1
+124,Packing,2012-03-26 00:00:00+00:00,2012-03-26 01:00:00+00:00,Packing,9
+99,Lapping - Machine 1,2012-03-26 00:00:00+00:00,2012-03-26 01:15:00+00:00,Machine 1 - Lapping,4
+126,Lapping - Machine 1,2012-03-26 00:00:00+00:00,2012-03-26 01:15:00+00:00,Machine 1 - Lapping,4
+141,Turning & Milling - Machine 4,2012-03-26 00:00:00+00:00,2012-03-26 01:15:00+00:00,Machine 4 - Turning & Milling,6
+81,Turning & Milling Q.C.,2012-03-26 06:48:00+00:00,2012-03-26 16:08:00+00:00,Quality Check 1,2
+86,Turning & Milling - Machine 6,2012-03-26 06:51:00+00:00,2012-03-26 08:01:00+00:00,Machine 6 - Turning & Milling,7
+135,Turning & Milling - Machine 5,2012-03-26 06:53:00+00:00,2012-03-26 09:11:00+00:00,Machine 5 - Turning & Milling,1
+135,Turning & Milling Q.C.,2012-03-26 07:00:00+00:00,2012-03-26 08:00:00+00:00,Quality Check 1,2
+126,Lapping - Machine 1,2012-03-26 08:18:00+00:00,2012-03-26 09:14:00+00:00,Machine 1 - Lapping,4
+119,Turning & Milling - Machine 10,2012-03-26 08:30:00+00:00,2012-03-26 18:00:00+00:00,Machine 10 - Grinding,3
+86,Turning & Milling - Machine 6,2012-03-26 08:37:00+00:00,2012-03-26 08:38:00+00:00,Machine 6 - Turning & Milling,7
+264,Turning & Milling - Machine 6,2012-03-26 08:38:00+00:00,2012-03-26 15:28:00+00:00,Machine 6 - Turning & Milling,7
+126,Lapping - Machine 1,2012-03-26 09:05:00+00:00,2012-03-26 09:52:00+00:00,Machine 1 - Lapping,4
+99,Laser Marking - Machine 7,2012-03-26 09:14:00+00:00,2012-03-26 10:12:00+00:00,Machine 7- Laser Marking,5
+142,Turning & Milling Q.C.,2012-03-26 10:00:00+00:00,2012-03-26 11:10:00+00:00,Quality Check 1,2
+99,Lapping - Machine 1,2012-03-26 10:12:00+00:00,2012-03-26 12:12:00+00:00,Machine 1 - Lapping,4
+135,Turning & Milling - Machine 5,2012-03-26 12:10:00+00:00,2012-03-26 15:41:00+00:00,Machine 5 - Turning & Milling,1
+45,Fix - Machine 15M,2012-03-26 14:21:00+00:00,2012-03-26 15:57:00+00:00,Machine 8 - Turning & Milling,0
+264,Turning & Milling - Machine 6,2012-03-26 15:28:00+00:00,2012-03-26 16:01:00+00:00,Machine 6 - Turning & Milling,7
+264,Turning & Milling - Machine 6,2012-03-26 15:42:00+00:00,2012-03-26 17:52:00+00:00,Machine 6 - Turning & Milling,7
+135,Turning & Milling - Machine 5,2012-03-26 15:50:00+00:00,2012-03-26 23:37:00+00:00,Machine 5 - Turning & Milling,1
+86,Turning & Milling Q.C.,2012-03-26 16:00:00+00:00,2012-03-26 16:40:00+00:00,Quality Check 1,2
+138,Turning & Milling - Machine 4,2012-03-26 17:13:00+00:00,2012-03-26 18:01:00+00:00,Machine 4 - Turning & Milling,6
+138,Turning & Milling - Machine 4,2012-03-26 19:42:00+00:00,2012-03-27 00:44:00+00:00,Machine 4 - Turning & Milling,6
+264,Turning & Milling - Machine 6,2012-03-26 20:21:00+00:00,2012-03-27 06:34:00+00:00,Machine 6 - Turning & Milling,7
+126,Round Grinding - Machine 12,2012-03-26 23:00:00+00:00,2012-03-26 23:45:00+00:00,Machine 12 - Grinding,10
+135,Turning & Milling - Machine 5,2012-03-26 23:43:00+00:00,2012-03-27 06:33:00+00:00,Machine 5 - Turning & Milling,1
+138,Turning & Milling - Machine 4,2012-03-27 00:45:00+00:00,2012-03-27 06:34:00+00:00,Machine 4 - Turning & Milling,6
+126,Round Grinding - Machine 12,2012-03-27 06:56:00+00:00,2012-03-27 07:48:00+00:00,Machine 12 - Grinding,10
+135,Turning & Milling - Machine 5,2012-03-27 07:00:00+00:00,2012-03-27 15:00:00+00:00,Machine 5 - Turning & Milling,1
+264,Turning & Milling Q.C.,2012-03-27 07:09:00+00:00,2012-03-27 07:26:00+00:00,Quality Check 1,2
+126,Round Grinding - Machine 12,2012-03-27 07:48:00+00:00,2012-03-27 10:24:00+00:00,Machine 12 - Grinding,10
+264,Turning & Milling - Machine 6,2012-03-27 08:04:00+00:00,2012-03-27 15:56:00+00:00,Machine 6 - Turning & Milling,7
+138,Turning & Milling - Machine 4,2012-03-27 08:06:00+00:00,2012-03-27 16:04:00+00:00,Machine 4 - Turning & Milling,6
+119,Turning & Milling - Machine 10,2012-03-27 08:17:00+00:00,2012-03-27 17:47:00+00:00,Machine 10 - Grinding,3
+135,Turning & Milling Q.C.,2012-03-27 08:25:00+00:00,2012-03-27 09:26:00+00:00,Quality Check 1,2
+140,Lapping - Machine 1,2012-03-27 08:27:00+00:00,2012-03-27 10:22:00+00:00,Machine 1 - Lapping,4
+86,Turning & Milling Q.C.,2012-03-27 11:00:00+00:00,2012-03-27 12:47:00+00:00,Quality Check 1,2
+140,Round Grinding - Machine 2,2012-03-27 12:34:00+00:00,2012-03-27 16:14:00+00:00,Machine 2 - Round Grinding,12
+126,Final Inspection Q.C.,2012-03-27 13:26:00+00:00,2012-03-27 15:27:00+00:00,Quality Check 1,2
+135,Turning & Milling - Machine 5,2012-03-27 15:00:00+00:00,2012-03-27 16:00:00+00:00,Machine 5 - Turning & Milling,1
+96,Turning & Milling Q.C.,2012-03-27 15:12:00+00:00,2012-03-27 17:41:00+00:00,Quality Check 1,2
+138,Turning & Milling - Machine 5,2012-03-27 16:06:00+00:00,2012-03-27 18:09:00+00:00,Machine 5 - Turning & Milling,1
+135,Turning & Milling - Machine 5,2012-03-27 16:07:00+00:00,2012-03-27 18:08:00+00:00,Machine 5 - Turning & Milling,1
+140,Round Grinding - Machine 2,2012-03-27 16:15:00+00:00,2012-03-27 17:06:00+00:00,Machine 2 - Round Grinding,12
+140,Round Grinding - Machine 2,2012-03-27 17:07:00+00:00,2012-03-27 17:43:00+00:00,Machine 2 - Round Grinding,12
+264,Turning & Milling - Machine 6,2012-03-27 17:36:00+00:00,2012-03-27 18:30:00+00:00,Machine 6 - Turning & Milling,7
+137,Turning & Milling - Machine 4,2012-03-27 18:21:00+00:00,2012-03-27 23:38:00+00:00,Machine 4 - Turning & Milling,6
+135,Turning & Milling - Machine 5,2012-03-27 19:51:00+00:00,2012-03-27 23:33:00+00:00,Machine 5 - Turning & Milling,1
+264,Turning & Milling - Machine 6,2012-03-27 20:09:00+00:00,2012-03-28 06:42:00+00:00,Machine 6 - Turning & Milling,7
+119,Turning & Milling - Machine 10,2012-03-27 21:36:00+00:00,2012-03-28 04:21:00+00:00,Machine 10 - Grinding,3
+135,Turning & Milling - Machine 5,2012-03-27 23:33:00+00:00,2012-03-28 01:16:00+00:00,Machine 5 - Turning & Milling,1
+126,Packing,2012-03-28 00:00:00+00:00,2012-03-28 01:00:00+00:00,Packing,9
+96,Lapping - Machine 1,2012-03-28 00:00:00+00:00,2012-03-28 01:15:00+00:00,Machine 1 - Lapping,4
+133,Turning & Milling - Machine 4,2012-03-28 00:00:00+00:00,2012-03-28 01:15:00+00:00,Machine 4 - Turning & Milling,6
+135,Turning & Milling - Machine 5,2012-03-28 01:16:00+00:00,2012-03-28 06:40:00+00:00,Machine 5 - Turning & Milling,1
+137,Turning & Milling - Machine 4,2012-03-28 01:17:00+00:00,2012-03-28 04:11:00+00:00,Machine 4 - Turning & Milling,6
+45,Turning & Milling Q.C.,2012-03-28 06:53:00+00:00,2012-03-28 08:08:00+00:00,Quality Check 1,2
+45,Turning & Milling Q.C.,2012-03-28 06:54:00+00:00,2012-03-28 07:31:00+00:00,Quality Check 1,2
+264,Turning & Milling - Machine 6,2012-03-28 07:00:00+00:00,2012-03-28 07:27:00+00:00,Machine 6 - Turning & Milling,7
+264,Turning & Milling Q.C.,2012-03-28 07:05:00+00:00,2012-03-28 07:31:00+00:00,Quality Check 1,2
+119,Turning & Milling - Machine 10,2012-03-28 07:20:00+00:00,2012-03-28 17:37:00+00:00,Machine 10 - Grinding,3
+264,Turning & Milling Q.C.,2012-03-28 07:41:00+00:00,2012-03-28 07:48:00+00:00,Quality Check 1,2
+135,Turning & Milling - Machine 5,2012-03-28 07:49:00+00:00,2012-03-28 16:09:00+00:00,Machine 5 - Turning & Milling,1
+264,Turning & Milling - Machine 6,2012-03-28 07:50:00+00:00,2012-03-28 12:05:00+00:00,Machine 6 - Turning & Milling,7
+137,Turning & Milling - Machine 4,2012-03-28 07:50:00+00:00,2012-03-28 16:09:00+00:00,Machine 4 - Turning & Milling,6
+264,Laser Marking - Machine 7,2012-03-28 08:20:00+00:00,2012-03-28 10:39:00+00:00,Machine 7- Laser Marking,5
+96,Lapping - Machine 1,2012-03-28 09:04:00+00:00,2012-03-28 10:13:00+00:00,Machine 1 - Lapping,4
+96,Laser Marking - Machine 7,2012-03-28 09:30:00+00:00,2012-03-28 12:00:00+00:00,Machine 7- Laser Marking,5
+135,Turning & Milling Q.C.,2012-03-28 09:47:00+00:00,2012-03-28 14:48:00+00:00,Quality Check 1,2
+138,Turning & Milling Q.C.,2012-03-28 10:00:00+00:00,2012-03-28 10:30:00+00:00,Quality Check 1,2
+98,Turning & Milling Q.C.,2012-03-28 10:00:00+00:00,2012-03-28 12:38:00+00:00,Quality Check 1,2
+138,Turning & Milling Q.C.,2012-03-28 10:30:00+00:00,2012-03-28 11:00:00+00:00,Quality Check 1,2
+96,Lapping - Machine 1,2012-03-28 10:40:00+00:00,2012-03-28 13:22:00+00:00,Machine 1 - Lapping,4
+138,Turning & Milling Q.C.,2012-03-28 11:00:00+00:00,2012-03-28 11:45:00+00:00,Quality Check 1,2
+138,Laser Marking - Machine 7,2012-03-28 14:15:00+00:00,2012-03-28 14:43:00+00:00,Machine 7- Laser Marking,5
+98,Laser Marking - Machine 7,2012-03-28 15:00:00+00:00,2012-03-28 15:30:00+00:00,Machine 7- Laser Marking,5
+135,Turning & Milling - Machine 5,2012-03-28 16:13:00+00:00,2012-03-28 23:40:00+00:00,Machine 5 - Turning & Milling,1
+99,Final Inspection Q.C.,2012-03-28 17:35:00+00:00,2012-03-28 17:59:00+00:00,Quality Check 1,2
+133,Turning & Milling - Machine 4,2012-03-28 20:04:00+00:00,2012-03-29 04:43:00+00:00,Machine 4 - Turning & Milling,6
+118,Turning & Milling - Machine 6,2012-03-28 20:10:00+00:00,2012-03-28 22:11:00+00:00,Machine 6 - Turning & Milling,7
+119,Turning & Milling - Machine 10,2012-03-28 21:14:00+00:00,2012-03-29 06:42:00+00:00,Machine 10 - Grinding,3
+118,Turning & Milling - Machine 6,2012-03-28 22:12:00+00:00,2012-03-29 01:29:00+00:00,Machine 6 - Turning & Milling,7
+135,Turning & Milling - Machine 5,2012-03-28 23:54:00+00:00,2012-03-29 06:41:00+00:00,Machine 5 - Turning & Milling,1
+96,Packing,2012-03-29 00:00:00+00:00,2012-03-29 01:00:00+00:00,Packing,9
+96,Packing,2012-03-29 00:00:00+00:00,2012-03-29 01:00:00+00:00,Packing,9
+125,Turning & Milling - Machine 6,2012-03-29 01:30:00+00:00,2012-03-29 06:42:00+00:00,Machine 6 - Turning & Milling,7
+133,Turning & Milling - Machine 4,2012-03-29 04:44:00+00:00,2012-03-29 06:40:00+00:00,Machine 4 - Turning & Milling,6
+133,Turning & Milling - Machine 4,2012-03-29 06:45:00+00:00,2012-03-29 16:03:00+00:00,Machine 4 - Turning & Milling,6
+135,Turning & Milling - Machine 5,2012-03-29 06:45:00+00:00,2012-03-29 16:04:00+00:00,Machine 5 - Turning & Milling,1
+96,Final Inspection Q.C.,2012-03-29 07:00:00+00:00,2012-03-29 08:40:00+00:00,Quality Check 1,2
+119,Turning & Milling - Machine 10,2012-03-29 07:18:00+00:00,2012-03-29 17:18:00+00:00,Machine 10 - Grinding,3
+98,Laser Marking - Machine 7,2012-03-29 07:25:00+00:00,2012-03-29 08:20:00+00:00,Machine 7- Laser Marking,5
+125,Turning & Milling - Machine 6,2012-03-29 07:26:00+00:00,2012-03-29 13:22:00+00:00,Machine 6 - Turning & Milling,7
+99,Final Inspection Q.C.,2012-03-29 08:00:00+00:00,2012-03-29 11:54:00+00:00,Quality Check 1,2
+174,Laser Marking - Machine 7,2012-03-29 08:26:00+00:00,2012-03-29 09:20:00+00:00,Machine 7- Laser Marking,5
+98,Laser Marking - Machine 7,2012-03-29 09:00:00+00:00,2012-03-29 09:30:00+00:00,Machine 7- Laser Marking,5
+174,Lapping - Machine 1,2012-03-29 09:20:00+00:00,2012-03-29 10:48:00+00:00,Machine 1 - Lapping,4
+174,Lapping - Machine 1,2012-03-29 10:00:00+00:00,2012-03-29 10:58:00+00:00,Machine 1 - Lapping,4
+174,Lapping - Machine 1,2012-03-29 10:49:00+00:00,2012-03-29 12:51:00+00:00,Machine 1 - Lapping,4
+174,Round Grinding - Machine 12,2012-03-29 10:58:00+00:00,2012-03-29 12:13:00+00:00,Machine 12 - Grinding,10
+65,Turning & Milling - Machine 9,2012-03-29 10:58:00+00:00,2012-03-29 16:02:00+00:00,Machine 9 - Turning & Milling,11
+174,Round Grinding - Machine 12,2012-03-29 10:59:00+00:00,2012-03-29 14:35:00+00:00,Machine 12 - Grinding,10
+135,Turning & Milling Q.C.,2012-03-29 12:04:00+00:00,2012-03-29 15:05:00+00:00,Quality Check 1,2
+264,Turning & Milling Q.C.,2012-03-29 12:24:00+00:00,2012-03-29 12:43:00+00:00,Quality Check 1,2
+125,Turning & Milling Q.C.,2012-03-29 13:25:00+00:00,2012-03-29 16:03:00+00:00,Quality Check 1,2
+174,Round Grinding - Machine 12,2012-03-29 14:36:00+00:00,2012-03-29 15:46:00+00:00,Machine 12 - Grinding,10
+125,Turning & Milling - Machine 6,2012-03-29 15:43:00+00:00,2012-03-29 15:58:00+00:00,Machine 6 - Turning & Milling,7
+65,Turning & Milling - Machine 9,2012-03-29 16:43:00+00:00,2012-03-29 23:41:00+00:00,Machine 9 - Turning & Milling,11
+125,Turning & Milling - Machine 6,2012-03-29 16:45:00+00:00,2012-03-29 17:29:00+00:00,Machine 6 - Turning & Milling,7
+135,Turning & Milling - Machine 5,2012-03-29 16:47:00+00:00,2012-03-29 23:28:00+00:00,Machine 5 - Turning & Milling,1
+134,Turning & Milling - Machine 4,2012-03-29 17:49:00+00:00,2012-03-29 19:49:00+00:00,Machine 4 - Turning & Milling,6
+174,Lapping - Machine 1,2012-03-29 17:53:00+00:00,2012-03-29 21:36:00+00:00,Machine 1 - Lapping,4
+136,Turning & Milling - Machine 6,2012-03-29 19:15:00+00:00,2012-03-29 23:34:00+00:00,Machine 6 - Turning & Milling,7
+134,Turning & Milling - Machine 4,2012-03-29 19:50:00+00:00,2012-03-30 00:00:00+00:00,Machine 4 - Turning & Milling,6
+140,Grinding Rework - Machine 12,2012-03-29 21:36:00+00:00,2012-03-29 22:19:00+00:00,Machine 12 - Grinding,10
+136,Turning & Milling - Machine 6,2012-03-29 23:34:00+00:00,2012-03-30 05:55:00+00:00,Machine 6 - Turning & Milling,7
+140,Round Grinding - Machine 2,2012-03-29 23:54:00+00:00,2012-03-30 00:26:00+00:00,Machine 2 - Round Grinding,12
+65,Turning & Milling - Machine 9,2012-03-29 23:55:00+00:00,2012-03-30 05:54:00+00:00,Machine 9 - Turning & Milling,11
+99,Packing,2012-03-30 00:00:00+00:00,2012-03-30 01:00:00+00:00,Packing,9
+140,Packing,2012-03-30 00:00:00+00:00,2012-03-30 01:00:00+00:00,Packing,9
+144,Packing,2012-03-30 00:00:00+00:00,2012-03-30 01:00:00+00:00,Packing,9
+174,Packing,2012-03-30 00:00:00+00:00,2012-03-30 01:00:00+00:00,Packing,9
+135,Turning & Milling - Machine 5,2012-03-30 00:01:00+00:00,2012-03-30 05:45:00+00:00,Machine 5 - Turning & Milling,1
+134,Turning & Milling - Machine 4,2012-03-30 05:45:00+00:00,2012-03-30 11:25:00+00:00,Machine 4 - Turning & Milling,6
+135,Turning & Milling - Machine 5,2012-03-30 05:45:00+00:00,2012-03-30 11:27:00+00:00,Machine 5 - Turning & Milling,1
+135,Turning & Milling Q.C.,2012-03-30 06:11:00+00:00,2012-03-30 07:11:00+00:00,Quality Check 1,2
+5,Turning & Milling - Machine 8,2012-03-30 06:17:00+00:00,2012-03-30 11:14:00+00:00,Machine 8 - Turning & Milling,0
+136,Turning & Milling Q.C.,2012-03-30 06:36:00+00:00,2012-03-30 07:21:00+00:00,Quality Check 1,2
+107,Turning & Milling - Machine 10,2012-03-30 06:36:00+00:00,2012-03-30 11:47:00+00:00,Machine 10 - Grinding,3
+140,Final Inspection Q.C.,2012-03-30 07:12:00+00:00,2012-03-30 09:03:00+00:00,Quality Check 1,2
+174,Final Inspection Q.C.,2012-03-30 08:40:00+00:00,2012-03-30 10:17:00+00:00,Quality Check 1,2
+144,Final Inspection Q.C.,2012-03-30 08:56:00+00:00,2012-03-30 09:57:00+00:00,Quality Check 1,2
+65,Turning & Milling - Machine 9,2012-03-30 09:00:00+00:00,2012-03-30 12:00:00+00:00,Machine 9 - Turning & Milling,11
+118,Turning & Milling Q.C.,2012-03-30 10:18:00+00:00,2012-03-30 11:41:00+00:00,Quality Check 1,2
+137,Turning & Milling Q.C.,2012-03-30 10:55:00+00:00,2012-03-30 11:50:00+00:00,Quality Check 1,2
+5,Turning & Milling - Machine 8,2012-03-30 11:14:00+00:00,2012-03-30 11:43:00+00:00,Machine 8 - Turning & Milling,0
+134,Turning & Milling - Machine 4,2012-03-30 23:43:00+00:00,2012-03-31 05:45:00+00:00,Machine 4 - Turning & Milling,6

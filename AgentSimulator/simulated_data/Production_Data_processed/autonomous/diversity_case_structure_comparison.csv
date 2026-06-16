@@ -1,0 +1,6 @@
+statistic,original_event_log,simod,agentsimulator
+trace_variants,37.0,38.0,29.4
+mean_case_length,7.973684210526316,44.15,22.826315789473682
+median_case_length,6.5,43.1,19.6
+min_case_length,1.0,10.4,1.8
+max_case_length,36.0,89.1,64.4

@@ -36,32 +36,15 @@ python compute_agent_metrics.py \
     --sim-end-col end_timestamp \
     --sim-resource-col resource
 
-
-python compute_agent_metrics.py \
-    --ref ../AgentSimulator/raw_data/production.csv \
-    --sim ../AgentSimulator/simulated_data/Production-simod/ \
-    --case-col case_id \
-    --activity-col activity_name \
-    --start-col start_timestamp \
-    --end-col end_timestamp \
-    --resource-col resource \
-    --sim-case-col case_id \
-    --sim-activity-col activity \
-    --sim-start-col start_time \
-    --sim-end-col end_time \
-    --sim-resource-col resource
-
-
-
 BPI：
 python compute_agent_metrics.py \
-    --ref ../AgentSimulator/raw_data/BPIChallenge2019_3WayMatchingEC_processed.csv \
+    --ref ../AgentSimulator/simulated_data/BPIChallenge2019_3WayMatchingEC_processed/orchestrated/test_preprocessed.csv \
     --sim ../AgentSimulator/simulated_data/BPIChallenge2019_3WayMatchingEC_processed/orchestrated/ \
-    --case-col "case:concept:name" \
-    --activity-col "concept:name" \
+    --case-col "case_id" \
+    --activity-col "activity_name" \
     --start-col start_timestamp \
     --end-col end_timestamp \
-    --resource-col "org:resource" \
+    --resource-col "resource" \
     --sim-case-col case_id \
     --sim-activity-col activity_name \
     --sim-start-col start_timestamp \
@@ -71,7 +54,7 @@ python compute_agent_metrics.py \
 
 Production：
 python compute_agent_metrics.py \
-    --ref ../AgentSimulator/raw_data/Production_Data_processed.csv \
+    --ref ../AgentSimulator/simulated_data/Production_Data_processed/autonomous/test_preprocessed.csv \
     --sim ../AgentSimulator/simulated_data/Production_Data_processed/autonomous/ \
     --case-col "case_id" \
     --activity-col "activity" \
@@ -85,13 +68,13 @@ python compute_agent_metrics.py \
     --sim-resource-col resource
 
 python compute_agent_metrics.py \
-    --ref ../simod_workspace/outputs/20260608_181447_24D690D3_ECDF_42D3_B1BA_9CA0EB114459/best_result/evaluation/test_log.csv \
-    --sim ../simod_workspace/outputs/20260608_181447_24D690D3_ECDF_42D3_B1BA_9CA0EB114459/best_result/evaluation \
-    --case-col "case:concept:name" \
-    --activity-col "concept:name" \
+    --ref ../simod_workspace/outputs/20260615_080302_27CA8B16_D20B_4925_8429_26255D39014E/best_result/evaluation/test_log.csv \
+    --sim ../simod_workspace/outputs/20260615_080302_27CA8B16_D20B_4925_8429_26255D39014E/best_result/evaluation \
+    --case-col "case_id" \
+    --activity-col "activity_name" \
     --start-col start_timestamp \
     --end-col end_timestamp \
-    --resource-col "org:resource" \
+    --resource-col "resource" \
     --sim-case-col case_id \
     --sim-activity-col activity \
     --sim-start-col start_time \

@@ -5,11 +5,11 @@ version: 5
 ##########
 common:
   # Path to the event log in CSV format
-  train_log_path: ../event_logs/Production_Data_processed.csv
+  train_log_path: ../event_logs/Production_train.csv
   # Specify the name for each of the columns in the CSV file (XES standard by default)
   log_ids:
     case: "case_id"
-    activity: "activity"
+    activity: "activity_name"
     resource: "resource"
     enabled_time: "enabled_time"  # If not present in the log, automatically estimated (see preprocessing)
     start_time: "start_timestamp"  # Should be present, but if not, can be estimated (see preprocessing)
@@ -17,7 +17,7 @@ common:
   # Use this process model and skip its discovery
   # process_model_path: ../models/LoanApp_simplified.bpmn
   # Event log to evaluate the discovered BPS model with
-  # test_log_path: ../event_logs/LoanApp_simplified_test.csv.gz
+  test_log_path: ../event_logs/Production_test.csv
   # Flag to perform evaluation (if 'test_log_path' not provided) with a test partition of the input log
   perform_final_evaluation: true
   # Number of evaluations of the discovered BPS model
@@ -88,7 +88,7 @@ control_flow:
     - true
     - false
   # Discover data-aware branching rules, i.e., BPMN decision points based on value of data attributes
-  discover_branch_rules: true
+  discover_branch_rules: false
   # Minimum f-score value to consider the discovered data-aware branching rules
   f_score:
     - 0.3

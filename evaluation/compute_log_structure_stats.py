@@ -12,12 +12,6 @@ For simulated logs:
     compute statistics per log, then output mean values.
 
 Usage:
-    python compute_log_structure_stats.py \
-      --test ../AgentSimulator/raw_data/BPIChallenge2019_3WayMatchingEC_processed.csv \
-      --sim-dir ../AgentSimulator/simulated_data/BPIChallenge2019_3WayMatchingEC_processed/orchestrated/ \
-      --case-col "case:concept:name" \
-      --activity-col "concept:name" \
-      --start-col start_timestamp
 
 python compute_log_structure_stats.py \
   --original-log ../AgentSimulator/simulated_data/BPIChallenge2019_3WayMatchingEC_processed/orchestrated/test_preprocessed.csv \
@@ -33,7 +27,19 @@ python compute_log_structure_stats.py \
   --agentsim-activity-col activity_name \
   --agentsim-start-col start_timestamp
 
-
+python compute_log_structure_stats.py \
+  --original-log ../AgentSimulator/simulated_data/Production_Data_processed/autonomous/test_preprocessed.csv \
+  --simod-dir ../simod_workspace/outputs/20260616_102514_25C250EE_8D76_4D5F_8932_737C2BBF67D9/best_result/evaluation \
+  --agentsim-dir ../AgentSimulator/simulated_data/Production_Data_processed/autonomous \
+  --original-case-col "case_id" \
+  --original-activity-col "activity_name" \
+  --original-start-col start_timestamp \
+  --simod-case-col case_id \
+  --simod-activity-col activity \
+  --simod-start-col start_time \
+  --agentsim-case-col case_id \
+  --agentsim-activity-col activity_name \
+  --agentsim-start-col start_timestamp
 """
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
